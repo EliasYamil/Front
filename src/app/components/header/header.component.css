@@ -1,0 +1,7 @@
+div{
+    background: linear-gradient(to right, #00010a, #00010a, #00010a, #00010a, #00010a, #00010a, #2a025e, #460286);
+}
+app-social{
+    float: right;
+    margin-top: 25px;
+}

@@ -1,0 +1,19 @@
+.row{
+    color: white;
+    background: linear-gradient(to right, #00010a, #00010a, #00010a, #00010a, #00010a, #00010a, #2a025e, #460286);
+    padding-top: 3%;
+    padding-left: 2%;
+}
+div{
+    padding-top: 1%;
+}
+.contenedor{
+    text-align: center;
+}
+img{
+    box-shadow: 0px 0px 20px #ffff;
+    box-shadow: ejeX ejeY difumasion color;
+}
+.parte1, .parte2{
+    display: inline-block;
+}

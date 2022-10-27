@@ -1,0 +1,18 @@
+.row{
+    padding-top: 5%;
+    padding-left: 2%;
+    color: white;
+    background: linear-gradient(to right, #00010a, #00010a, #00010a, #00010a, #00010a, #00010a, #2a025e, #460286);
+    
+
+}
+h1, h3{
+    display: inline;
+}
+p{
+    margin-right: 400px;
+}
+#exp{
+    color: white;
+    border-color: aqua;
+}
